@@ -41,14 +41,14 @@ $global-breakpoint: $global-width + $global-gutter;
 // 2. Grid
 // -------
 
-$grid-column-count: 12;
+$grid-column-count: 10;
 $column-padding-bottom: $global-padding;
 $container-radius: 0;
 
 // 3. Block Grid
 // -------------
 
-$block-grid-max: 8;
+$block-grid-max: 12;
 $block-grid-gutter: $global-gutter;
 
 // 4. Typography
